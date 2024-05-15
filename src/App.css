@@ -1,0 +1,8 @@
+body {
+  background-color: lightblue;
+}
+
+:root {
+  --yellow: #ffc107;
+  --resetGreen: #28a745;
+}
